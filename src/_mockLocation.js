@@ -5,7 +5,7 @@ const tenMetersWithDegrees = 0.0001;
 const getLocation = increment => {
     return {
         timestamp: 1000000,
-        cords: {
+        coords: {
             speed: 0,
             heading: 0,
             accruacy: 5,
