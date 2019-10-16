@@ -12,7 +12,7 @@ const Map = () => {
     }
 
     return(
-        <MapView 
+        <MapView
             style={styles.map}
             initialRegion={{
                 ...currentLocation.coords,
