@@ -1,4 +1,4 @@
-This is a full Stack React Native application named "tracks"
+This is a full Stack React Native application named "Fit-bitter"
 
 as of 10/28/2019 this application was built on React-native.
 
