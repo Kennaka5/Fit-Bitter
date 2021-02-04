@@ -1,14 +1,16 @@
-![](Fit-Bitter.gif)
-
 ## About the Application 
  
-This app is modeled as a "fit bit" to track where they are going (Hiking, Running, Biking, etc.).  
+This app is modeled as a "Fit Bit device" to track where they are going (Hiking, Running, Biking, etc.).
 
 A user can create an account, and use the app to track there movements on a map using the google maps API.
 
 When recording the app will draw a line indicating where the user moved.
 
 The User can save there "tracked" path to there account and review their past movements.
+
+## Live Demo
+
+![](Fit-Bitter.gif)
 
 ## Technologies Used
 
