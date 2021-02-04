@@ -1,4 +1,4 @@
-![](Fit-Bitter.gif)
+
 
 ## About the Application 
  
@@ -9,6 +9,21 @@ This app is modeled as a fit bit.  A user can create an account, and use the app
 When recording the app will draw a line indicating where the user moved.
 
 The User can save there "tracked" path to there account and revew there past movements.
+
+## Live Demo
+
+![](Fit-Bitter.gif)
+
+## Technologies Used
+
+  * React-Native
+  * Expo
+  * MongoDB
+  * Express.js
+
+## API's Used
+
+  * Google Maps Api 
  
  
  
