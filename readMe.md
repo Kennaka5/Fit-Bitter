@@ -1,4 +1,4 @@
-![](fit-Bitter.gif)
+![](Fit-Bitter.gif)
 
 ## About the Application 
  
