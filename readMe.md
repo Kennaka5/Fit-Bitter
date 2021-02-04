@@ -1,3 +1,5 @@
+![](fit-Bitter.gif)
+
 ## About the Application 
  
 This is a a Font-end React Native application named "Fit-bitter". The Back-End portion of this applcation can be found at: https://github.com/Kennaka5/Fit-Bitter-Server.

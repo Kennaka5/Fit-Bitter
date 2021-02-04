@@ -1,4 +1,4 @@
-import { AsyncStorage } from 'react-native';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 // AsyncStorage is set to be deprecated from the react native libary keep and eye out for a libary change
 import createDataContext from './createDataContext';
 import trackerApi from '../api/tracker';
@@ -38,7 +38,7 @@ const signup = (dispatch) => async ({email, password}) => {
         try {
             const response = await trackerApi.post('/signup', {email, password});
                 await AsyncStorage.setItem('token', response.data.token)
-             console.log(response.data) // this gives back the token 
+             console.log('response: ', response.data) // this gives back the token 
             dispatch({type: 'signin', payload: response.data.token});
             //create function to navigate to main flow
             navigate('TrackList')
