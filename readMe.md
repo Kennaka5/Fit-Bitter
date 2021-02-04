@@ -1,18 +1,14 @@
-
+![](Fit-Bitter.gif)
 
 ## About the Application 
  
-This is a a Font-end React Native application named "Fit-bitter". The Back-End portion of this applcation can be found at: https://github.com/Kennaka5/Fit-Bitter-Server.
+This app is modeled as a "fit bit" to track where they are going (Hiking, Running, Biking, etc.).  
 
-This app is modeled as a fit bit.  A user can create an account, and use the app to track there movements on a map using the google maps API.
+A user can create an account, and use the app to track there movements on a map using the google maps API.
 
 When recording the app will draw a line indicating where the user moved.
 
-The User can save there "tracked" path to there account and revew there past movements.
-
-## Live Demo
-
-![](Fit-Bitter.gif)
+The User can save there "tracked" path to there account and review their past movements.
 
 ## Technologies Used
 
@@ -23,7 +19,7 @@ The User can save there "tracked" path to there account and revew there past mov
 
 ## API's Used
 
-  * Google Maps Api 
+  * Google Maps 
  
  
  
@@ -41,7 +37,8 @@ On Your Desktop:
  
 ## Required Supplamental Programs.
 
-The Back-End portion of this applcation (Fit-Bitter-Server) can be found at: https://github.com/Kennaka5/Fit-Bitter-Server. 
+The Back-End portion of this applcation (Fit-Bitter-Server) can be found at: (https://github.com/Kennaka5/Fit-Bitter-Server.) 
+
 Follow the readMe.md on that repository to set up the server needed to complete the application.
 
 Ngrok wil be needed to host a live web tunnel to make calls to the Fit-Bitter-Server from your mobile device.
@@ -64,3 +61,4 @@ You can Download ngroh here: https://ngrok.com/download
 
 
 ### Pull Requests Welcome!
+
